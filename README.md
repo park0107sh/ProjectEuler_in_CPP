@@ -8,4 +8,4 @@ xxx is the number of the project. ie: pexxx.cpp
 
 pass all - passed all the test cases on hackerrank
 
-Problems from 1 to 18 are written in C, in a repository ProjectEuler
+Problems from 1 to 17 are written in C, in a repository ProjectEuler
