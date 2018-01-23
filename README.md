@@ -4,7 +4,7 @@ These are my solution on Programming version of euler - hackerrank project euler
 
 All projects problems can be found here : www.projecteuler.net
 
-xxx is the number of the project. ie: pexxx.c
+xxx is the number of the project. ie: pexxx.cpp
 
 pass all - passed all the test cases on hackerrank
 
